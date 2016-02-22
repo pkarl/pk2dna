@@ -26,6 +26,6 @@ This involves a linux-like environment, a text editor, and a twitter account. He
  * If you'd like to have less fun, you can run `source /etc/rc.local`
 
 ### Troubleshooting
-* try running `python postAndTrimFirstLineOfGenome.py` or `python postGenomeStatus.py` directly from the command line.
- * if you don't want to execute, but you want to compile, you can run `python -m py_compile postGenomeStatus.py postAndTrimFirstLineOfGenome.py` to see if there are syntax errors
-* Also, check `watch_errors.txt` to see if watch ran into any issues
+* See if there are python execution errors by running `python postAndTrimFirstLineOfGenome.py` or `python postGenomeStatus.py` from the command line.
+ * If you don't want to execute, but you want to compile, run `python -m py_compile postGenomeStatus.py postAndTrimFirstLineOfGenome.py`. This will show you syntax errors w/out tweeting.
+* Also, check `[path/to/pk2dna/]watch_errors.txt` to see if watch ran into any issues
