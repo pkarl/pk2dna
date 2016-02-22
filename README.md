@@ -6,13 +6,13 @@ Read more about it here: [future blog post url]
 
 ## So, you'd like to tweet your genome!
 
-Here's what you do (**note** - watch for placeholder paths):
+This involves a linux-like environment, a text editor, and a twitter account. Here's what you do:
 
 ### Get data + credentials
 
-* Download your genetic blueprint from 23andMe
+* [Download your genetic blueprint from 23andMe](https://customercare.23andme.com/hc/en-us/articles/202907670-Accessing-your-Raw-Data)
 * Create a Twitter App (for `python-twitter` auth) at http://apps.twitter.com
-* Get a server somewhere for this repo. Clone and plop it up there.
+* [Get a server](https://m.do.co/c/bf26cf8235d8) somewhere for this repo. Clone and plop it up there.
 
 ### Configure
 * Run `pip install -r requirements.txt`
