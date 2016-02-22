@@ -1,0 +1,16 @@
+1   5549118 CT
+1   5549525 CT
+1   5551233 AG
+1   5553470 CT
+1   5554049 AA
+1   5555141 AG
+1   5555529 CT
+1   5556067 AG
+1   5559249 AG
+1   5561229 CT
+1   5561412 GG
+1   5561478 AG
+1   5562108 TT
+... and so on - pk2
+
+more at https://customercare.23andme.com/hc/en-us/articles/202907670-Accessing-your-Raw-Data
