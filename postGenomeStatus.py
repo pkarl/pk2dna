@@ -4,8 +4,6 @@ import twitter_settings
 
 api = twitter.Api(**twitter_settings.keys)
 
-# print api.VerifyCredentials()
-
 # pull the line from the buffer
 f = open('tweetbuffer')
 l = f.readline().strip()
