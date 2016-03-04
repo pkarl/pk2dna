@@ -13,6 +13,7 @@ This involves a linux-like environment, a text editor, and a twitter account. He
 * [Download your genetic blueprint from 23andMe](https://customercare.23andme.com/hc/en-us/articles/202907670-Accessing-your-Raw-Data)
 * Create a Twitter App (for `python-twitter` auth) at http://apps.twitter.com
 * [Get a server](https://m.do.co/c/bf26cf8235d8) somewhere for this repo. Clone and plop it up there.
+ * (assumes Ubuntu)
 
 ### Configure
 * Run `pip install -r requirements.txt`
