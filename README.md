@@ -2,7 +2,7 @@
 
 This is an open-source / learning version of the code that powers http://twitter.com/pk2dna.
 
-Read more about it here: [future blog post url]
+Read more about it here: [Building a Macabre 45-year Twitter Bot](https://medium.com/@steyblind/how-i-built-my-macabre-45-year-twitter-bot-3051fb9f9e04#.j76lc9q6c)
 
 ## So, you'd like to tweet your genome!
 
